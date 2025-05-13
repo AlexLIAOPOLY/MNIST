@@ -1,0 +1,14 @@
+{
+  "name": "cursor-html-deploy",
+  "version": "1.0.0",
+  "description": "Simple HTML deploy tool for Cursor",
+  "main": "index.js",
+  "bin": {
+    "cursor-html-deploy": "./index.js"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "ngrok": "^5.0.0",
+    "body-parser": "^1.20.2"
+  }
+} 
